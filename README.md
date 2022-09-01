@@ -16,7 +16,9 @@ After installing Node on the PC
 *Enter npm init
 *Enter...
 
-*A package.js file is created which stores all dependencies so you an run npm install on another sstem to use all installed packages.
+*A package.js file is created which stores all dependencies so you can run npm install on another system to use all installed packages.
 
 *To install nodemon dependency
 Make sure you are connected to the internet and run "npm install -D nodemon"
+
+
